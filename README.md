@@ -3,6 +3,16 @@ Projects from the 2024 Python Hackathon session organised by the PSC
 
 # Participating Teams
 
+## AAZ
+
+Members:
+
+1.ALEYA
+2.AIN
+3.ZAFRAN
+
+URL:https://github.com/yakizuu/shooter
+
 ## COCOLALA
 1. Zulhasni
 2. Najmi
@@ -57,14 +67,12 @@ Members:
 
 URL: https://github.com/Darwisy09/python2024hackathon
 
-## superProo
+## Slackers
+1. Foo Wei Hong
+2. Lee Guan Yi
+3. Aadhithya a/l Tharshana Moorthi
 
-Members:
-
-1) Kee Jia Hor
-2) Tan Hong Ming
-
-URL: https://github.com/superjiahor/Team-superProo
+URL: https://github.com/Fooisntcat/python2024hackathon/
 
 ## The Spice Deciders
 
@@ -84,6 +92,15 @@ Members:
 2. Bernard Koo Hao Yang
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
+
+## superProo
+
+Members:
+
+1) Kee Jia Hor
+2) Tan Hong Ming
+
+URL: https://github.com/superjiahor/Team-superProo
 
 ## The Triple Entente
 
@@ -109,19 +126,3 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 
 URL:https://github.com/jaz-lynn/pygame.git
 
-## AAZ
-
-Members:
-
-1.ALEYA
-2.AIN
-3.ZAFRAN
-
-URL:https://github.com/yakizuu/shooter
-
-## Slackers
-1. Foo Wei Hong
-2. Lee Guan Yi
-3. Aadhithya a/l Tharshana Moorthi
-
-URL: https://github.com/Fooisntcat/python2024hackathon/
