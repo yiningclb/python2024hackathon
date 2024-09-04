@@ -23,3 +23,12 @@ Members:
 3. Gamma
 
 URL: https://example.com
+
+## Team SuiBian
+
+Members:
+
+1. Choo Yi Jie
+2. Bernard Koo Hao Yang
+
+URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
