@@ -118,3 +118,10 @@ Members:
 3.ZAFRAN
 
 URL:https://github.com/yakizuu/shooter
+
+## Slackers
+1. Foo Wei Hong
+2. Lee Guan Yi
+3. Aadhithya a/l Tharshana Moorthi
+
+URL: https://github.com/Fooisntcat/python2024hackathon/
