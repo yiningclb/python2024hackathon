@@ -22,6 +22,16 @@ Members:
 
 URL:https://github.com/haavi08/pythonhackathon2024
 
+## Nas
+
+Members:
+
+1. Nas
+2. Izzat
+3. Aliah
+
+URL: https://github.com/07MNasrullah/python2024hackathon/
+
 ## Nexus
 1.Nicholas Lam Jin Kit
 2. Visakan Vetha
@@ -38,6 +48,7 @@ Members:
 4.Zahra Zulaikha
 
 URL: https://github.com/Darwisy09/python2024hackathon
+
 ## superProo
 
 Members:
