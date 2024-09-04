@@ -3,7 +3,7 @@ Projects from the 2024 Python Hackathon session organised by the PSC
 
 # Participating Teams
 
-## Team LigmaSigma
+## GigaSigma
 
 Members:
 
@@ -13,7 +13,25 @@ Members:
 
 URL: https://github.com/YWYin-E/python2024hackathon/
 
-## Team The Spice Deciders
+## Mavericks 
+
+Members: 
+1.Haavineesh
+2.Shayn
+3.Shazvinddan
+
+URL:https://github.com/haavi08/pythonhackathon2024
+
+## superProo
+
+Members:
+
+1) Kee Jia Hor
+2) Tan Hong Ming
+
+URL: https://github.com/superjiahor/Team-superProo
+
+## The Spice Deciders
 
 Members:
 
@@ -23,7 +41,7 @@ Members:
 
 URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
 
-## Team SuiBian
+## SuiBian
 
 Members:
 
@@ -32,18 +50,9 @@ Members:
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
-## Team Wan23
+## Wan23
 1. Lee Yu Cheng
 2. Loh Yi Qi
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
-
-## Team superProo
-
-Members:
-
-1) Kee Jia Hor
-2) Tan Hong Ming
-
-URL: https://github.com/superjiahor/Team-superProo
