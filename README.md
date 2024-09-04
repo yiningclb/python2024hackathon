@@ -38,3 +38,12 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+## Team Mavericks 
+
+Members: 
+1.Haavineesh
+2.Shayn
+3.Shazvinddan
+
+URL:https://github.com/haavi08/pythonhackathon2024
