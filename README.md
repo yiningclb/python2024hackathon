@@ -7,9 +7,9 @@ Projects from the 2024 Python Hackathon session organised by the PSC
 
 Members:
 
-1.ALEYA
-2.AIN
-3.ZAFRAN
+1. Aleya
+2. Ain
+3. Zafran
 
 URL:https://github.com/yakizuu/shooter
 
