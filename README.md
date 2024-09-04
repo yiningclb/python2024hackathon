@@ -24,6 +24,16 @@ Members:
 
 URL: https://example.com
 
+## Team The Spice Deciders
+
+Members:
+
+1. Yeoh Yen Han 
+2. Harshini Gunalan
+3. Vaisshnavy Jayasilan
+
+URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+
 ## Team SuiBian
 
 Members:
