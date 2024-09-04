@@ -24,6 +24,16 @@ Members:
 
 URL: https://example.com
 
+## Team LigmaSigma
+
+Members:
+
+1. Yu Wai Yin
+2. Siva
+3. Kabeer
+
+URL: https://github.com/YWYin-E/python2024hackathon/
+
 ## Team The Spice Deciders
 
 Members:
