@@ -48,3 +48,12 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
 URL: https://github.com/diamondex187/pythonhackathon2024
 
+## Team Nobita
+
+Members:
+1.Darwisy Hakim
+2.Danial Haqiem
+3.Belinda Jeffery
+4.Zahra Zulaikha
+
+URL: https://github.com/Darwisy09/python2024hackathon
