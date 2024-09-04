@@ -22,7 +22,15 @@ Members:
 
 URL:https://github.com/haavi08/pythonhackathon2024
 
-07MNasrullah/python2024hackathon
+## Nas
+
+Members:
+
+1. Nas
+2. Izzat
+3. Aliah
+
+URL: https://github.com/07MNasrullah/python2024hackathon/
 
 ## superProo
 
