@@ -3,6 +3,14 @@ Projects from the 2024 Python Hackathon session organised by the PSC
 
 # Participating Teams
 
+## COCOLALA
+1. Zulhasni
+2. Najmi
+3. Nasuha
+4. Syaza
+
+URL:https://github.com/zulhasni/pong.py
+
 ## GigaSigma
 
 Members:
