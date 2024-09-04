@@ -32,3 +32,13 @@ Members:
 2. Bernard Koo Hao Yang
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
+
+## Team LigmaSigma
+
+Members:
+
+1. Yu Wai Yin
+2. Siva
+3. Kabeer
+
+URL: https://github.com/YWYin-E/python2024hackathon/
