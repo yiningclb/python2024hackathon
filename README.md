@@ -22,6 +22,15 @@ Members:
 
 URL:https://github.com/haavi08/pythonhackathon2024
 
+## superProo
+
+Members:
+
+1) Kee Jia Hor
+2) Tan Hong Ming
+
+URL: https://github.com/superjiahor/Team-superProo
+
 ## The Spice Deciders
 
 Members:
@@ -47,4 +56,3 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
-
