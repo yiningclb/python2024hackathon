@@ -41,6 +41,16 @@ Members:
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
+## The Triple Entente
+
+Members: 
+
+1. Soon Yu Chien
+2. Lim Naphatsakorn Sen
+3. Siew Kae Ren
+
+URL: https://github.com/Darr3n2GG/Snake-GameJam-2024-CLHS
+
 ## Wan23
 1. Lee Yu Cheng
 2. Loh Yi Qi
