@@ -13,3 +13,13 @@ Members:
 4. Nana
 
 URL: https://github.com/PenangScienceCluster/python2024hackathon
+
+## Team PSC 2
+
+Members:
+
+1. Alpha
+2. Beta
+3. Gamma
+
+URL: https://example.com
