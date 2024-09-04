@@ -99,7 +99,9 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 Members:
 
 1) Kee Jia Hor
-2) Tan Hong Ming
+2) Teh Wei Xuan
+3) Peh Le Hui
+4) Chung Wei Heng
 
 URL: https://github.com/superjiahor/Team-superProo
 
