@@ -77,6 +77,13 @@ Members:
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
+## Tita titanium
+1. Peh Le Hui
+2. Chung Wei Heng
+3. Teh Wei Xuan
+
+URL:https://github.com/LH0208/PSC-PYthon-Hackathon2024
+
 ## The Triple Entente
 
 Members: 
@@ -95,15 +102,9 @@ URL: https://github.com/Darr3n2GG/Snake-GameJam-2024-CLHS
 URL: https://github.com/diamondex187/pythonhackathon2024
 
 ## YOK
-1.Yeap Jaz-Lynn
-2.Ong Hui Ting
-3.Khaw Xuan Zhen
+1. Yeap Jaz-Lynn
+2. Ong Hui Ting
+3. Khaw Xuan Zhen
 
 URL:https://github.com/jaz-lynn/pygame.git
 
-## Tita titanium
-1)Peh Le Hui
-2)Chung Wei Heng
-3)Teh Wei Xuan
-
-URL:https://github.com/LH0208/PSC-PYthon-Hackathon2024
