@@ -100,3 +100,10 @@ URL: https://github.com/diamondex187/pythonhackathon2024
 3.Khaw Xuan Zhen
 
 URL:https://github.com/jaz-lynn/pygame.git
+
+## Tita titanium
+1)Peh Le Hui
+2)Chung Wei Heng
+3)Teh Wei Xuan
+
+URL:https://github.com/LH0208/PSC-PYthon-Hackathon2024
