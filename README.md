@@ -48,7 +48,15 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
 URL: https://github.com/diamondex187/pythonhackathon2024
 
-## Team Nobita
+## Nexus
+1.Nicholas Lam Jin Kit
+2. Visakan Vetha
+3. Victor Ch'ng Jong Jun
+
+URL: https://github.com/VisakanTheGamer/our-snake_game.git
+
+
+## Nobita
 
 Members:
 1.Darwisy Hakim
