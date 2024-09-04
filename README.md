@@ -59,3 +59,12 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
+
+## Team Squirrels Basement
+
+Member:
+1. Sun Yi Ning
+2. Joan Mooi Jing Wen
+3. Melissa Wong Yuen Ying
+
+Url:https://github.com/yiningclb/python2024hackathon
