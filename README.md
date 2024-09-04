@@ -32,6 +32,23 @@ Members:
 
 URL: https://github.com/07MNasrullah/python2024hackathon/
 
+## Nexus
+1.Nicholas Lam Jin Kit
+2. Visakan Vetha
+3. Victor Ch'ng Jong Jun
+
+URL: https://github.com/VisakanTheGamer/our-snake_game.git
+
+## Nobita
+
+Members:
+1.Darwisy Hakim
+2.Danial Haqiem
+3.Belinda Jeffery
+4.Zahra Zulaikha
+
+URL: https://github.com/Darwisy09/python2024hackathon
+
 ## superProo
 
 Members:
