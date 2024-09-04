@@ -33,6 +33,13 @@ Members:
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 
+## Team Wan23
+1. Lee Yu Cheng
+2. Loh Yi Qi
+3. Loh Je Le
+
+URL: https://github.com/diamondex187/pythonhackathon2024
+
 ## Team LigmaSigma
 
 Members:
