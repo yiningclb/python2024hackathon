@@ -24,6 +24,26 @@ Members:
 
 URL: https://example.com
 
+## Team LigmaSigma
+
+Members:
+
+1. Yu Wai Yin
+2. Siva
+3. Kabeer
+
+URL: https://github.com/YWYin-E/python2024hackathon/
+
+## Team The Spice Deciders
+
+Members:
+
+1. Yeoh Yen Han 
+2. Harshini Gunalan
+3. Vaisshnavy Jayasilan
+
+URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+
 ## Team SuiBian
 
 Members:
@@ -39,13 +59,3 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
-
-## Team LigmaSigma
-
-Members:
-
-1. Yu Wai Yin
-2. Siva
-3. Kabeer
-
-URL: https://github.com/YWYin-E/python2024hackathon/
