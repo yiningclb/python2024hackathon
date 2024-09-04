@@ -22,6 +22,31 @@ Members:
 
 URL:https://github.com/haavi08/pythonhackathon2024
 
+## Nexus
+1.Nicholas Lam Jin Kit
+2. Visakan Vetha
+3. Victor Ch'ng Jong Jun
+
+URL: https://github.com/VisakanTheGamer/our-snake_game.git
+
+## Nobita
+
+Members:
+1.Darwisy Hakim
+2.Danial Haqiem
+3.Belinda Jeffery
+4.Zahra Zulaikha
+
+URL: https://github.com/Darwisy09/python2024hackathon
+## superProo
+
+Members:
+
+1) Kee Jia Hor
+2) Tan Hong Ming
+
+URL: https://github.com/superjiahor/Team-superProo
+
 ## The Spice Deciders
 
 Members:
@@ -47,12 +72,3 @@ URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
 3. Loh Je Le
 
 URL: https://github.com/diamondex187/pythonhackathon2024
-
-## Team superProo
-
-Members:
-
-1) Kee Jia Hor
-2) Tan Hong Ming
-
-URL: https://github.com/superjiahor/Team-superProo
