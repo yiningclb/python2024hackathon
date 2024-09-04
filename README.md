@@ -32,3 +32,14 @@ Members:
 2. Bernard Koo Hao Yang
 
 URL: https://github.com/yijiechoo16163/PSC-python-hackathon-2024/
+
+## Team The Spice Deciders
+
+Members:
+
+1. Yeoh Yen Han 
+2. Harshini Gunalan
+3. Vaisshnavy Jayasilan
+
+URL: [https://example.com](https://github.com/Vaisshnavy12/The-Spice-Deciders-.git)
+
