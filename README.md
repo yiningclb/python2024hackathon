@@ -3,7 +3,7 @@ Projects from the 2024 Python Hackathon session organised by the PSC
 
 # Participating Teams
 
-## Team LigmaSigma
+## Team GigaSigma
 
 Members:
 
